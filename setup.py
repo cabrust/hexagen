@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="hexagen",
-    version="1.0",
+    version="1.1",
     author="Clemens-Alexander Brust",
     author_email="ikosa.de@gmail.com",
     description="Generates random hexadecimal digits and prints them to standard output.",
